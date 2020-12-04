@@ -2,7 +2,8 @@ nav {
   font-size: 20px;
 }
 a,
-a:hover {
+a:hover,
+#portfolio {
   color: grey;
 }
 #heroimg {
@@ -24,9 +25,13 @@ a:hover {
   background-position: center;
 }
 .main {
-  margin-top: 600px;
+  margin-top: 520px;
 }
 .fab {
   font-size: 32px;
   margin: 10px;
+}
+.about {
+  background-color: white;
+  color: grey;
 }
